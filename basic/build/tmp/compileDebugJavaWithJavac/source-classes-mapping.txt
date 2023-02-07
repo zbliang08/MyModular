@@ -1,0 +1,6 @@
+com/xa/basic/AppConfig.java
+ com.xa.basic.AppConfig
+com/xa/basic/BuildConfig.java
+ com.xa.basic.BuildConfig
+com/xa/basic/BaseApp.java
+ com.xa.basic.BaseApp

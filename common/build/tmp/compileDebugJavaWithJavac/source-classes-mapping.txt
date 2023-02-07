@@ -1,0 +1,8 @@
+com/xa/common/EmptyLoginService.java
+ com.xa.common.EmptyLoginService
+com/xa/common/ServiceFactory.java
+ com.xa.common.ServiceFactory
+ com.xa.common.ServiceFactory$1
+ com.xa.common.ServiceFactory$Inner
+com/xa/common/BuildConfig.java
+ com.xa.common.BuildConfig

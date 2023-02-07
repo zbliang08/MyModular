@@ -1,0 +1,16 @@
+com/alibaba/android/arouter/routes/ARouter$$Interceptors$$app.java
+ com.alibaba.android.arouter.routes.ARouter$$Interceptors$$app
+com/xa/mymodular/BuildConfig.java
+ com.xa.mymodular.BuildConfig
+com/xa/mymodular/MyApp.java
+ com.xa.mymodular.MyApp
+com/alibaba/android/arouter/routes/ARouter$$Group$$router.java
+ com.alibaba.android.arouter.routes.ARouter$$Group$$router
+com/xa/mymodular/Test.java
+ com.xa.mymodular.Test
+com/xa/mymodular/Test$$ARouter$$Autowired.java
+ com.xa.mymodular.Test$$ARouter$$Autowired
+com/alibaba/android/arouter/routes/ARouter$$Root$$app.java
+ com.alibaba.android.arouter.routes.ARouter$$Root$$app
+com/alibaba/android/arouter/routes/ARouter$$Providers$$app.java
+ com.alibaba.android.arouter.routes.ARouter$$Providers$$app

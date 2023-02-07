@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.xa.my:testMaven:1.0.0-SNAPSHOT@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/308085f3d8a469db6e3eac21ed0689c4/jetified-testMaven-1.0.0-SNAPSHOT/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0231cef6db92b3a100b41525d71ecc79/jetified-testMaven-1.0.0-SNAPSHOT/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d333bcf8ec9678c1deb89ba53c114f6d/jetified-testMaven-1.0.0-SNAPSHOT/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4065a1f06bcd160d16d7fe62981a09c9/jetified-testMaven-1.0.0-SNAPSHOT/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4065a1f06bcd160d16d7fe62981a09c9/jetified-testMaven-1.0.0-SNAPSHOT/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4065a1f06bcd160d16d7fe62981a09c9/jetified-testMaven-1.0.0-SNAPSHOT/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

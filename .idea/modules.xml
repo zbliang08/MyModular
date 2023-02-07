@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyModular.iml" filepath="$PROJECT_DIR$/.idea/modules/MyModular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyModular.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyModular.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/basic/MyModular.basic.iml" filepath="$PROJECT_DIR$/.idea/modules/basic/MyModular.basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/MyModular.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/MyModular.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/login/MyModular.login.iml" filepath="$PROJECT_DIR$/.idea/modules/login/MyModular.login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/member/MyModular.member.iml" filepath="$PROJECT_DIR$/.idea/modules/member/MyModular.member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pluginMaven/MyModular.pluginMaven.iml" filepath="$PROJECT_DIR$/.idea/modules/pluginMaven/MyModular.pluginMaven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testMaven/MyModular.testMaven.iml" filepath="$PROJECT_DIR$/.idea/modules/testMaven/MyModular.testMaven.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+com/alibaba/android/arouter/routes/ARouter$$Providers$$login.java
+ com.alibaba.android.arouter.routes.ARouter$$Providers$$login
+com/alibaba/android/arouter/routes/ARouter$$Root$$login.java
+ com.alibaba.android.arouter.routes.ARouter$$Root$$login
+com/xa/login/BuildConfig.java
+ com.xa.login.BuildConfig
+com/xa/login/LoginApp.java
+ com.xa.login.LoginApp
+com/alibaba/android/arouter/routes/ARouter$$Group$$login.java
+ com.alibaba.android.arouter.routes.ARouter$$Group$$login
+com/xa/login/LoginService.java
+ com.xa.login.LoginService

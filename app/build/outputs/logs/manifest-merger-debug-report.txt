@@ -1,0 +1,228 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [:login] /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/login/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-27:12
+MERGED from [:basic] /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/basic/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.xa.my:testMaven:1.0.0-SNAPSHOT] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/4065a1f06bcd160d16d7fe62981a09c9/jetified-testMaven-1.0.0-SNAPSHOT/AndroidManifest.xml:2:1-9:12
+MERGED from [:common] /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/common/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/4565ab5e38c03f4b70ba75b3a6146cde/jetified-core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/56866aea98c836f9c4e05a017797e49b/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/660e2979116beb548923741967290479/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/b7bcc0f806ef0cd3a7d500699aaefa04/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/5defc72830da9e102f1efb9513529df4/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.alibaba:arouter-api:1.5.1] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/8c75771c891000636bba1be4839980f2/jetified-arouter-api-1.5.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/05d18127837c2286876b080103668921/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/2bdb42d2b26736038dcc13b81d4be8a4/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/b9e74edc354bd6f86adeb89e59fb7129/jetified-activity-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/fe02457894d54e2378d419da47604af6/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/7d4228f4cfbea1d0a3082313da58b610/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/5ff398a596a83a335fae70944ddc0bfb/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/837568d97d8f58e1c08f1a590c7b40bc/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/cae4aee59c5345565f1bf49daf78472b/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/8a5703d64357a555e2edb7785613a07e/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/66d2bc5a46306daa011e9f0bfb7916db/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/8c4c25f9405da63ae0a24ff62856c221/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/365d660fd32bcc9505a957da68fda9ba/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/b42b3fae16c56f2fe8d4590848c50a7d/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/14275a9e28dbaf87b977ec488a5d4e72/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/1e03b14905e2a098c817025bfe90b1a8/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/e6cc298ad6a4150b0b2132fad3489a86/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/a778d4cbb2687f8369fb811a52c47e95/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/1d64a9d70d95de0eaa90aa72777d2939/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/6ba009ee3dcc093c0dfb4102e6c28e8b/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/3f324ec4aa891ed36ebad82f0d5f7527/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/e8c5679052da7697b252e2661bc8ab3a/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/3d06a1d86c6034f26a8c5db35ff6ef1d/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/6d7b58d5bdd81fc633d7ed45430829ca/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/a75f784a38cdb90486787455abfc6373/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/02e7a2e9a5645df018803ac25286caae/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/698ab1977de003ae7567337107b20514/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/2a5f0ff060ca05ac61129163db6c145d/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/0afb44fceb3b655d1c250990d684d351/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/ec5db18cbc237f4d48734396dc3ff888/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/249888a68a7443c649f55bd68370caa2/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/d3fd7c9580a474d26e7e27afdabbf42e/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/4bb5ae2856b77f489e328d4e4bf813b7/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/2ab9393279b3b0c63bb91ab4d4841e2b/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/d1545b757f1d25648a86d9358a21e55d/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/ad6f1108899fa97212b92716839a4525/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/6c0070906f769853e70ef938fb0dd6e1/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/9e7ec0be26dfd990c559ff25a36095c0/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [:login] /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/login/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-25:19
+MERGED from [:login] /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/login/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-25:19
+MERGED from [com.google.android.material:material:1.4.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/56866aea98c836f9c4e05a017797e49b/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/56866aea98c836f9c4e05a017797e49b/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/660e2979116beb548923741967290479/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/660e2979116beb548923741967290479/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.7.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/e8c5679052da7697b252e2661bc8ab3a/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/e8c5679052da7697b252e2661bc8ab3a/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/0afb44fceb3b655d1c250990d684d351/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/0afb44fceb3b655d1c250990d684d351/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/e8c5679052da7697b252e2661bc8ab3a/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml:12:9-47
+	android:name
+		ADDED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml:6:9-30
+activity#com.xa.mymodular.MainActivity
+ADDED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml:13:9-21:20
+	android:exported
+		ADDED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml
+MERGED from [:login] /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/login/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:login] /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/login/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:basic] /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/basic/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:basic] /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/basic/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.xa.my:testMaven:1.0.0-SNAPSHOT] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/4065a1f06bcd160d16d7fe62981a09c9/jetified-testMaven-1.0.0-SNAPSHOT/AndroidManifest.xml:5:5-7:41
+MERGED from [com.xa.my:testMaven:1.0.0-SNAPSHOT] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/4065a1f06bcd160d16d7fe62981a09c9/jetified-testMaven-1.0.0-SNAPSHOT/AndroidManifest.xml:5:5-7:41
+MERGED from [:common] /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/common/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:common] /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/common/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/4565ab5e38c03f4b70ba75b3a6146cde/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/4565ab5e38c03f4b70ba75b3a6146cde/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/56866aea98c836f9c4e05a017797e49b/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/56866aea98c836f9c4e05a017797e49b/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/660e2979116beb548923741967290479/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/660e2979116beb548923741967290479/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/b7bcc0f806ef0cd3a7d500699aaefa04/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/b7bcc0f806ef0cd3a7d500699aaefa04/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/5defc72830da9e102f1efb9513529df4/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/5defc72830da9e102f1efb9513529df4/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.alibaba:arouter-api:1.5.1] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/8c75771c891000636bba1be4839980f2/jetified-arouter-api-1.5.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.alibaba:arouter-api:1.5.1] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/8c75771c891000636bba1be4839980f2/jetified-arouter-api-1.5.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/05d18127837c2286876b080103668921/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/05d18127837c2286876b080103668921/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/2bdb42d2b26736038dcc13b81d4be8a4/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/2bdb42d2b26736038dcc13b81d4be8a4/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/b9e74edc354bd6f86adeb89e59fb7129/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/b9e74edc354bd6f86adeb89e59fb7129/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/fe02457894d54e2378d419da47604af6/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/fe02457894d54e2378d419da47604af6/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/7d4228f4cfbea1d0a3082313da58b610/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/7d4228f4cfbea1d0a3082313da58b610/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/5ff398a596a83a335fae70944ddc0bfb/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/5ff398a596a83a335fae70944ddc0bfb/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/837568d97d8f58e1c08f1a590c7b40bc/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/837568d97d8f58e1c08f1a590c7b40bc/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/cae4aee59c5345565f1bf49daf78472b/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/cae4aee59c5345565f1bf49daf78472b/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/8a5703d64357a555e2edb7785613a07e/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/8a5703d64357a555e2edb7785613a07e/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/66d2bc5a46306daa011e9f0bfb7916db/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/66d2bc5a46306daa011e9f0bfb7916db/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/8c4c25f9405da63ae0a24ff62856c221/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/8c4c25f9405da63ae0a24ff62856c221/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/365d660fd32bcc9505a957da68fda9ba/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/365d660fd32bcc9505a957da68fda9ba/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/b42b3fae16c56f2fe8d4590848c50a7d/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/b42b3fae16c56f2fe8d4590848c50a7d/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/14275a9e28dbaf87b977ec488a5d4e72/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/14275a9e28dbaf87b977ec488a5d4e72/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/1e03b14905e2a098c817025bfe90b1a8/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/1e03b14905e2a098c817025bfe90b1a8/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/e6cc298ad6a4150b0b2132fad3489a86/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/e6cc298ad6a4150b0b2132fad3489a86/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/a778d4cbb2687f8369fb811a52c47e95/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/a778d4cbb2687f8369fb811a52c47e95/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/1d64a9d70d95de0eaa90aa72777d2939/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/1d64a9d70d95de0eaa90aa72777d2939/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/6ba009ee3dcc093c0dfb4102e6c28e8b/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/6ba009ee3dcc093c0dfb4102e6c28e8b/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/3f324ec4aa891ed36ebad82f0d5f7527/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/3f324ec4aa891ed36ebad82f0d5f7527/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/e8c5679052da7697b252e2661bc8ab3a/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/e8c5679052da7697b252e2661bc8ab3a/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/3d06a1d86c6034f26a8c5db35ff6ef1d/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/3d06a1d86c6034f26a8c5db35ff6ef1d/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/6d7b58d5bdd81fc633d7ed45430829ca/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/6d7b58d5bdd81fc633d7ed45430829ca/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/a75f784a38cdb90486787455abfc6373/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/a75f784a38cdb90486787455abfc6373/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/02e7a2e9a5645df018803ac25286caae/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/02e7a2e9a5645df018803ac25286caae/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/698ab1977de003ae7567337107b20514/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/698ab1977de003ae7567337107b20514/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/2a5f0ff060ca05ac61129163db6c145d/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/2a5f0ff060ca05ac61129163db6c145d/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/0afb44fceb3b655d1c250990d684d351/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/0afb44fceb3b655d1c250990d684d351/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/ec5db18cbc237f4d48734396dc3ff888/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/ec5db18cbc237f4d48734396dc3ff888/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/249888a68a7443c649f55bd68370caa2/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/249888a68a7443c649f55bd68370caa2/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/d3fd7c9580a474d26e7e27afdabbf42e/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/d3fd7c9580a474d26e7e27afdabbf42e/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/4bb5ae2856b77f489e328d4e4bf813b7/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/4bb5ae2856b77f489e328d4e4bf813b7/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/2ab9393279b3b0c63bb91ab4d4841e2b/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/2ab9393279b3b0c63bb91ab4d4841e2b/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/d1545b757f1d25648a86d9358a21e55d/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/d1545b757f1d25648a86d9358a21e55d/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/ad6f1108899fa97212b92716839a4525/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/ad6f1108899fa97212b92716839a4525/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/6c0070906f769853e70ef938fb0dd6e1/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/6c0070906f769853e70ef938fb0dd6e1/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/9e7ec0be26dfd990c559ff25a36095c0/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/zbliang/.gradle/caches/transforms-2/files-2.1/9e7ec0be26dfd990c559ff25a36095c0/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/app/src/main/AndroidManifest.xml
+activity#com.xa.login.LoginActivity2
+ADDED from [:login] /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/login/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:9-24:20
+	android:exported
+		ADDED from [:login] /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/login/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from [:login] /Users/zbliang/AndroidStudioProjects/MyTest/MyModular/login/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-55
