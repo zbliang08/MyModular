@@ -1,0 +1,114 @@
+apply plugin: 'groovy'
+apply plugin: 'maven'
+
+dependencies {
+//    implementation 'com.android.tools.build:gradle:4.2.1'
+//    implementation 'com.android.tools.build:transform-api:1.5.0'
+//    implementation 'org.javassist:javassist:3.20.0-GA'
+    implementation gradleApi()
+    implementation localGroovy()
+}
+repositories {
+    jcenter()
+    google()
+}
+
+group='com.xa.my'
+version='1.0.0'
+archivesBaseName='pluginMaven'
+
+//uploadArchives{
+//    repositories {
+//        mavenDeployer{
+//            repository(url: uri('../myModulePlugin'))
+//        }
+//    }
+//}
+uploadArchives {
+    repositories {
+        mavenDeployer {
+            pom.groupId = 'com.xa.my'
+            pom.artifactId = archivesBaseName
+            //最后必须是-SNAPSHOT
+            pom.version = IS_PUBLISH.toBoolean() ? version : version + '-SNAPSHOT'
+
+            //传到本地目录
+            //repository(url: uri('../tplugins'))
+            //传到本地maven私服
+            repository(url: IS_PUBLISH.toBoolean() ? 'http://127.0.0.1:8081/nexus/content/repository/mymaven/' : 'http://127.0.0.1:8081/nexus/content/repository/mymavensnapshot/') {
+//            repository(url: IS_PUBLISH.toBoolean() ? 'http://127.0.0.1:8081/nexus/content/repository/maven-releases/' : 'http://127.0.0.1:8081/nexus/content/repository/maven-snapshots/') {
+                authentication(userName: 'admin', password: '123456')
+            }
+        }
+    }
+}
+
+
+// ====================java=============
+//plugins {
+//    id 'java-gradle-plugin'
+//}
+//apply plugin: 'maven'
+//repositories {
+//    mavenCentral()
+//}
+//
+//group='com.tb.plugin'
+//version='1.0.0'
+//archivesBaseName='java-plugin'
+//
+//uploadArchives{
+//    repositories {
+//        mavenDeployer{
+//            repository(url: uri('../tbModulePlugin'))
+//        }
+//    }
+//}
+//
+// 可以用脚本的方式去定义插件名和id，省去了resources文件夹和properties文件
+//gradlePlugin {
+//    plugins {
+//        //此处名字可以随意，下面指定插件id和具体类名
+//        javaPlugin {
+//            id = 'com.tb.tb-plugin'
+//            implementationClass = 'com.tb.plugin.TbJavaPlugin'
+//        }
+//    }
+//}
+
+// ====================kotlin=============
+//plugins {
+//    id 'maven-publish'
+////    id 'ivy-publish'
+//}
+//apply plugin: 'kotlin'
+//dependencies{
+//    compile gradleApi()
+//    implementation"org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+//}
+//
+//repositories {
+//    mavenCentral()
+//}
+//
+//publishing {
+//    publications {
+//        maven(MavenPublication) {
+//            groupId 'com.tb.plugin'
+//            artifactId 'kotlin-plugin'
+//            version '1.0.0'
+//
+//            from components.java
+//        }
+//    }
+//
+//    repositories {
+////        ivy {
+////            url "../consuming/ivy-repo"
+////        }
+//        maven {
+//            url="../tbModulePlugin"
+//        }
+//    }
+//}
+

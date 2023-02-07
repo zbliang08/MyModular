@@ -1,0 +1,8 @@
+rootProject.name = "MyModular"
+include ':app'
+include ':login'
+include ':member'
+include ':basic'
+include ':common'
+include ':pluginMaven'
+include ':testMaven'

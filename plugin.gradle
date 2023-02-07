@@ -1,0 +1,8 @@
+apply plugin: Plugin2
+class Plugin2 implements Plugin<Project>{
+
+    @Override
+    void apply(Project target) {
+        println("aaaaaaaaaaaaaa")
+    }
+}
