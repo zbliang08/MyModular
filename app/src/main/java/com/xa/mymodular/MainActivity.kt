@@ -11,7 +11,7 @@ import com.alibaba.android.arouter.facade.callback.NavigationCallback
 import com.alibaba.android.arouter.launcher.ARouter
 import com.xa.common.RouterConstance
 import com.xa.login.UserServiceImpl
-//import com.xa.mylibrary.Fuck
+import com.xa.mylibrary.Fuck
 import com.xa.testmaven.XTest
 
 @Route(path = "/router/MainActivity")
@@ -66,7 +66,7 @@ val userService = ARouter.getInstance().build(RouterConstance.login_service).nav
 //        Log.v("aaa", "user = "+ Test(this).getName())
 
         XTest().show()
-//        Fuck().fangfang()
+        Fuck().fangfang()
 //        MyTest()
     }
 }

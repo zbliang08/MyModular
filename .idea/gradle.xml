@@ -10,6 +10,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/JitpackTest" />
+            <option value="$PROJECT_DIR$/JitpackTest/mylibrary" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/basic" />
             <option value="$PROJECT_DIR$/common" />

@@ -59,4 +59,5 @@ dependencies {
 
     implementation 'com.xa.my:testMaven:1.0.0-SNAPSHOT'
 //    implementation 'com.github.zbliang08:JitpackTest:v1.0.3'
+    implementation project(':JitpackTest:mylibrary')
 }
