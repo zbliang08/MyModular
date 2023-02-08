@@ -1,0 +1,3 @@
+[submodule "JitpackTest"]
+	path = JitpackTest
+	url = https://github.com/zbliang08/JitpackTest
