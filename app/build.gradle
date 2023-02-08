@@ -58,4 +58,5 @@ dependencies {
     kapt 'com.alibaba:arouter-compiler:1.2.1'
 
     implementation 'com.xa.my:testMaven:1.0.0-SNAPSHOT'
+//    implementation 'com.github.zbliang08:JitpackTest:v1.0.3'
 }
