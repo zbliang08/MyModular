@@ -15,6 +15,12 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/basic" />
             <option value="$PROJECT_DIR$/common" />
+            <option value="$PROJECT_DIR$/device" />
+            <option value="$PROJECT_DIR$/device/devExport" />
+            <option value="$PROJECT_DIR$/device/devImpl" />
+            <option value="$PROJECT_DIR$/farm" />
+            <option value="$PROJECT_DIR$/farm/export" />
+            <option value="$PROJECT_DIR$/farm/impl" />
             <option value="$PROJECT_DIR$/login" />
             <option value="$PROJECT_DIR$/member" />
             <option value="$PROJECT_DIR$/pluginMaven" />

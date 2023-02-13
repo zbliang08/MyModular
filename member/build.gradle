@@ -29,6 +29,9 @@ android {
     kotlinOptions {
         jvmTarget = '1.8'
     }
+
+
+
 }
 
 dependencies {
@@ -37,7 +40,22 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.3.0'
     implementation 'com.google.android.material:material:1.4.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
+//    implementation files('libs/login_release.jar')
+    implementation(name:'login-release', ext: 'aar')
+
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 }
+
+repositories {
+    flatDir {
+        dirs 'libs'   // aar目录
+    }
+}
+
+//可以把各个模块重复的抽出来
+//apply from: '../total.gradle'
+//dependencies {
+//    implementation ''
+//}

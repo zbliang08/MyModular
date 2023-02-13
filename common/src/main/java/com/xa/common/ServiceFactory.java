@@ -1,5 +1,9 @@
 package com.xa.common;
 
+import android.util.Log;
+
+import com.xa.TestActivity;
+
 public class ServiceFactory {
 
     private ILoginService loginService;
@@ -34,6 +38,7 @@ public class ServiceFactory {
      * 返回 Login 组件的 Service 实例
      */
     public ILoginService getLoginService() {
+        Log.v("aaa", "b="+TestActivity.Companion.getA());
         if (loginService == null) {
             loginService = new EmptyLoginService();
         }

@@ -17,5 +17,6 @@ class LoginActivity : BaseActivity() {
             Log.v("aaa", "isLogin = "+ com.xa.common.ServiceFactory.getInstance().loginService.isLogin())
         }
         Log.v("aaa", "isLogin = "+ com.xa.common.ServiceFactory.getInstance().loginService.isLogin())
+
     }
 }

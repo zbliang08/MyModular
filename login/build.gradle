@@ -67,3 +67,40 @@ dependencies {
     }
     kapt 'com.alibaba:arouter-compiler:1.2.1'
 }
+
+
+/**
+ * //创建 jar 包,gradle makeExportJar, 或./gradlew makeExportJar
+ *
+ * gradle build assemble
+ * aar 路径：build/output/aar
+    jar 路径：build/intermediates/aar_main_jar/
+ */
+//task makeExportJar(type: Jar) {
+//    baseName = "login-exports"
+//    version = "1.0.0"
+//    extension = "jar"
+//    // java文件编译后的所在位置
+//    from('build/intermediates/classes/debug/')
+//    // kotlin文件编译后的所在位置
+//    from('build/tmp/kotlin-classes/debug/')
+//    include('com/xa/login/_exports/**')
+//    // jar包导出路径
+//    destinationDir = file('build/_exports')
+//}
+
+task makeJar(type: Copy) {
+    //jar 包命名规则
+//    def fileName =  "login_${defaultConfig.versionName}.jar"
+    def fileName =  "login.jar"
+    //jar 包默认路径
+    from('build/intermediates/aar_main_jar/release/')
+    //jar 包拷贝路径
+    into('build/libs/')
+    //jar 包默认名称 classes.jar
+//    include('classes.jar')
+    include('com/xa/login/_exports/**')
+    //jar 包重命名
+    rename('classes.jar', fileName)
+}
+makeJar.dependsOn(build)
